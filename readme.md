@@ -10,5 +10,4 @@
     <li>Create 'laravel' Schema on sql enviroment</li>
     <li>Deploy Database with 'php artisan migrate'</li>
     <li>Run with 'php artisan serve'</li>
-php artisan migrate
 </ul>
